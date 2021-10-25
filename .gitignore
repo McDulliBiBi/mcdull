@@ -1,0 +1,15 @@
+.idea/.gitignore
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+src/main/java/com/demo/parampassing/CnPrivacyTest.java
+target/classes/com/demo/nacos/simple/ConfigListenerTest$1.class
+target/classes/com/demo/nacos/simple/ConfigListenerTest.class
+target/classes/com/demo/nacos/simple/ConfigSimpleTest.class
+target/classes/com/demo/nacos/simple/ServerTest.class
+target/classes/com/demo/parampassing/CnPrivacyTest$ServiceInfo.class
+target/classes/com/demo/parampassing/CnPrivacyTest.class
+target/classes/com/demo/parampassing/ParamPassingTest$User.class
+target/classes/com/demo/parampassing/ParamPassingTest.class
